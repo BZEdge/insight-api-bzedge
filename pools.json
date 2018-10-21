@@ -41,12 +41,19 @@
          "equipool.1ds.us"
      ]
   },
- {
-    "poolName": "Minerul.me",
-    "url": "https://bze.minerul.me",
-    "searchStrings": [
+  {
+     "poolName": "Minerul.me",
+     "url": "https://bze.minerul.me",
+     "searchStrings": [
         "minerul.me"
-    ]
+     ]
+  },
+  {
+     "poolName": "YouMine Pool",
+     "url": "https://bzedge.youmine.xyz",
+     "searchStrings": [
+         "youmine.xyz"
+     ]
   }
 
 ]
